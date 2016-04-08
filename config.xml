@@ -20,5 +20,6 @@
     <icon src="icon.png"/>
 
     <access origin="*" /> 
+    <content src="index.html" />
 
 </widget>
